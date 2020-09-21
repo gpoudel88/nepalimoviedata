@@ -1,51 +1,51 @@
 movie_id,movie_name,rating,genres,actors,director
 1,A Mero Hajur 3,6.6,"Drama,Romance","U36,U121,U27",U126
-2,Chhakka Panja 3,4.9,Comedy,"U79,U9,U3,U118,U69,U16,U1,U122",U91
-3, Kabaddi Kabaddi Kabaddi,8.2,"Comedy,Drama,Romance","U18,U66,U94,U15,U120,U118",U127
-4,Intu Mintu Londonma,7.2,Romance,"U71,U78,U80,U102",U128
-5,Password,3.3,Crime,"U67,U40,U118,U87,U33,U76,U62",U129
-6,Jatra,8.1,"Action,Comedy,Drama","U74,U20,U87,U4",U130
-7,Romeo & Muna,7.5,"Drama,Romance","U38,U60,U11,U7",U131
-8,Captain,3.4,Sport,"U36,U86,U97,U77",U132
-9,Pashupati Prasad,8.5,"Drama,Romance","U82,U4,U74,U8",U133
-10, Pahuna: The Little Visitors,7.5,"Drama,Mystery","U51,U63,U28,U104",U134
-11,Jatrai Jatra,8,Comedy,"U74,U20,U4,U87",U130
-12,Bulbul,5.7,Drama,"U122,U88,U35,U61",U135
-13,White Sun,7.1,"Adventure,Drama","U18,U90,U4,U21",U136
-14,Ashmina,8.5,"Short,Drama","U92,U75,U100,U119",U137
-15,Prasad,7.9,Romance,"U74,U55,U53,U41",U138
-16,Mr.Jholay,7.7,"Drama,Romance","U18,U32,U118,U20",U127
-17, Damaruko Dandibiyo,8.7,"Drama,Sport","U82,U111,U118,U96",U139
-18, Sherbahadur,3.4,"Drama,Thriller","U86,U15,U111,U87",U140
-19,Changaa Chait,7,Romance,"U89,U44,U17,U87",U133
-20, Daal Bhat Tarkari,2.6,Comedy,"U81,U41,U56,U43",U141
-21,Chhakka Panja 2,6.2,"Comedy,Drama","U9,U79,U16,U6",U91
-22,Jai Bhole,5.6,Comedy,"U82,U42,U122,U118",U142
-23,Saili,8.4,"Drama,Romance","U18,U111,U8,U118",U127
+2,Chhakka Panja 3,4.9,Comedy,"U79,U9,U3,U118,U69,U16,U1,U122",U127
+3, Kabaddi Kabaddi Kabaddi,8.2,"Comedy,Drama,Romance","U18,U66,U94,U15,U120,U118",U128
+4,Intu Mintu Londonma,7.2,Romance,"U71,U78,U80,U102",U129
+5,Password,3.3,Crime,"U67,U40,U118,U87,U33,U76,U62",U130
+6,Jatra,8.1,"Action,Comedy,Drama","U74,U20,U87,U4",U131
+7,Romeo & Muna,7.5,"Drama,Romance","U38,U60,U11,U7",U132
+8,Captain,3.4,Sport,"U36,U86,U97,U77",U133
+9,Pashupati Prasad,8.5,"Drama,Romance","U82,U4,U74,U8",U134
+10, Pahuna: The Little Visitors,7.5,"Drama,Mystery","U51,U63,U28,U104",U135
+11,Jatrai Jatra,8,Comedy,"U74,U20,U4,U87",U131
+12,Bulbul,5.7,Drama,"U122,U88,U35,U61",U136
+13,White Sun,7.1,"Adventure,Drama","U18,U90,U4,U21",U137
+14,Ashmina,8.5,"Short,Drama","U92,U75,U100,U119",U138
+15,Prasad,7.9,Romance,"U74,U55,U53,U41",U139
+16,Mr.Jholay,7.7,"Drama,Romance","U18,U32,U118,U20",U128
+17, Damaruko Dandibiyo,8.7,"Drama,Sport","U82,U111,U118,U96",U140
+18, Sherbahadur,3.4,"Drama,Thriller","U86,U15,U111,U87",U141
+19,Changaa Chait,7,Romance,"U89,U44,U17,U87",U134
+20, Daal Bhat Tarkari,2.6,Comedy,"U81,U41,U56,U43",U142
+21,Chhakka Panja 2,6.2,"Comedy,Drama","U9,U79,U16,U6",U127
+22,Jai Bhole,5.6,Comedy,"U82,U42,U122,U118",U143
+23,Saili,8.4,"Drama,Romance","U18,U111,U8,U118",U128
 24,A Mero Hajur 2,7.3,"Drama,Romance","U123,U71,U114,U118",U126
-25,Ramkahani,5.9,"Comedy,Horror,Romance","U24,U65,U79,U120",U143
-26, Jhyanakuti,7.3,"Comedy,Drama,Romance","U83,U42,U99,U15",U144
-27,Gopi,6.8,Drama,"U74,U20,U11",U145
-28,Shatru Gate,6.1,"Comedy,Drama","U68,U81,U9,U91,U16,U106,U25",U130
-29,Bato Muniko Phool 2,6,"Drama,Romance","U50,U49,U19,U47",U146
-30,Xira,6.3,"Action,Crime","U55,U67,U103,U117,U93,U108",U147
-31,Sunkesari,4.5,"Drama,Horror","U110,U87,U45,U109",U27
-32,Selfie King,6.9,Drama,"U74,U61,U70,U54",U148
-33,The Break Up,5.9,"Comedy,Drama,Romance","U72,U105,U117,U116",U149
-34,Katha Kathmandu,6.5,"Drama,Romance","U73,U93,U2,U39",U150
-35,Nai Nabhannu La 5,6.9,"Drama,Romance","U12,U16,U122,U58",U151
-36,America Boys,8.3,"Comedy,Drama","U27,U70,U37,U115",U152
-37,Lappan Chhappan,6.9,"Crime,Drama","U18,U42,U27,U107",U153
-38,Gaja Baja,8.3,"Comedy,Drama","U85,U125,U107,U101",U154
-39,Rose,6.6,"Crime,Romance","U5,U64,U31,U15",U155
-40,Naakaa,6.3,"Crime,Drama","U74,U14,U22,U95",U156
-41,Chhakka Panja,6.7,"Comedy,Drama,Family","U9,U79,U118,U6",U91
-42,Panchayat,6.3,"Drama,History","U98,U116,U84",U158
-43,Kri,5.9,"Action,Drama","U36,U52,U67,U13",U159
-44,Dying Candle,8.5,"Drama,Family","U124,U42,U10,U26",U131
-45,Dhanapati,8.1,"Comedy,Drama","U82,U11,U112,U48",U133
-46,Prem Geet,6.9,Romance,"U5,U65,U116,U84",U143
-47,Ghampani,7.4,"Drama,Romance","U18,U12,U8,U59",U145
-48,Lily Bily,6.2,"Drama,Romance","U5,U16,U34,U67",U160
-49,Bobby,7.9,Drama,"U23,U29,U30,U46",U160
-50,Hari,8,Drama,"U74,U113,U57,U14",U161
+25,Ramkahani,5.9,"Comedy,Horror,Romance","U24,U65,U79,U120",U144
+26, Jhyanakuti,7.3,"Comedy,Drama,Romance","U83,U42,U99,U15",U145
+27,Gopi,6.8,Drama,"U74,U20,U11",U146
+28,Shatru Gate,6.1,"Comedy,Drama","U68,U81,U9,U91,U16,U106,U25",U131
+29,Bato Muniko Phool 2,6,"Drama,Romance","U50,U49,U19,U47",U147
+30,Xira,6.3,"Action,Crime","U55,U67,U103,U117,U93,U108",U148
+31,Sunkesari,4.5,"Drama,Horror","U110,U87,U45,U109",U149
+32,Selfie King,6.9,Drama,"U74,U61,U70,U54",U150
+33,The Break Up,5.9,"Comedy,Drama,Romance","U72,U105,U117,U116",U151
+34,Katha Kathmandu,6.5,"Drama,Romance","U73,U93,U2,U39",U152
+35,Nai Nabhannu La 5,6.9,"Drama,Romance","U12,U16,U122,U58",U153
+36,America Boys,8.3,"Comedy,Drama","U27,U70,U37,U115",U154
+37,Lappan Chhappan,6.9,"Crime,Drama","U18,U42,U27,U107",U155
+38,Gaja Baja,8.3,"Comedy,Drama","U85,U125,U107,U101",U156
+39,Rose,6.6,"Crime,Romance","U5,U64,U31,U15",U157
+40,Naakaa,6.3,"Crime,Drama","U74,U14,U22,U95",U158
+41,Chhakka Panja,6.7,"Comedy,Drama,Family","U9,U79,U118,U6",U127
+42,Panchayat,6.3,"Drama,History","U98,U116,U84",U160
+43,Kri,5.9,"Action,Drama","U36,U52,U67,U13",U161
+44,Dying Candle,8.5,"Drama,Family","U124,U42,U10,U26",U132
+45,Dhanapati,8.1,"Comedy,Drama","U82,U11,U112,U48",U134
+46,Prem Geet,6.9,Romance,"U5,U65,U116,U84",U144
+47,Ghampani,7.4,"Drama,Romance","U18,U12,U8,U59",U146
+48,Lily Bily,6.2,"Drama,Romance","U5,U16,U34,U67",U162
+49,Bobby,7.9,Drama,"U23,U29,U30,U46",U162
+50,Hari,8,Drama,"U74,U113,U57,U14",U163
